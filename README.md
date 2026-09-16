@@ -6,8 +6,8 @@ Aplicativo Flutter desenvolvido para a Atividade Avaliativa de Desenvolvimento M
 
 - **Nome:** Matheus Henrique da Rosa
 - **Turma:** ADS 2025
-- **Repositório GitHub:** https://github.com/codedbyMatheus/trab_av1
-- **Aplicação publicada:** https://codedbyMatheus.github.io/trab_av1/
+- **Repositório GitHub:** https://github.com/matheushda-rosa/trab_av1
+- **Aplicação publicada:** https://matheushda-rosa.github.io/trab_av1/
 
 ## Funcionalidades
 
